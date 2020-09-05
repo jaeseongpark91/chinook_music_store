@@ -1,0 +1,2 @@
+# chinook_music_store
+The Chinook music store has been purchasing the whole album from the record company but they noticed that there aren't many customers who buy the whole album rather there are more customers who partially buy some songs from the album. The business director asked the Data Analyst team to quantitavely measure the number of cases and create a report in order to make a business decison. 
