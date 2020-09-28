@@ -9,4 +9,4 @@ The codes are written in the Jupyter notebook **'chinook_record_answering_busine
 This project requires Sqlite and Python 3.
 
 ### Data
-This project is part of Dataquest.io guided project. The dataset is provided by Dataquest.io.
+This project is part of Dataquest.io guided project. The dataset **'chinook.db.sqlite'** is provided by Dataquest.io.
